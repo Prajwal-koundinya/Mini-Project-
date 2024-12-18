@@ -127,8 +127,8 @@ The core of the project relies on a CNN-based deep learning architecture:
 ## Contributors 👥
 
 - **Prajwal Koundinya:** Lead Developer and Machine Learning Engineer ([GitHub Profile](https://github.com/Prajwal-Koundinya))
-- **[Your Name]:** Data Scientist and Visualization Specialist
-- **[Other Team Members]:** Mention specific roles
+- Data Scientist and Visualization Specialist
+- EDA expert 
 
 **Under the guidance of [Victor Agughasi](https://github.com/Victor-Ikechukwu)**
 
