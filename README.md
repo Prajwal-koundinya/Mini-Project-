@@ -1,5 +1,3 @@
-# Mini Project 
-
 # Satellite Image Analysis: Identification of Landscapes
 
 ![Project Banner](https://via.placeholder.com/1000x300?text=Satellite+Image+Analysis)
@@ -22,15 +20,15 @@
 
 ## Table of Contents 📖
 
-- [Overview](#overview-%F0%9F%8C%8D)
-- [Key Features](#key-features-%E2%9C%A8)
-- [Installation](#installation-%E2%9A%A1)
-- [Usage](#usage-%F0%9F%94%A7)
-- [Dataset Details](#dataset-details-%F0%9F%93%8E)
-- [Model Architecture](#model-architecture-%F0%9F%93%A2)
-- [Results](#results-%F0%9F%93%88)
-- [Future Enhancements](#future-enhancements-%F0%9F%8C%9F)
-- [Contributors](#contributors-%F0%9F%91%A5)
+- [Overview 🌍](#overview-🌍)
+- [Key Features ✨](#key-features-✨)
+- [Installation ⚡](#installation-⚡)
+- [Usage 🔧](#usage-🔧)
+- [Dataset Details 📎](#dataset-details-📎)
+- [Model Architecture 📢](#model-architecture-📢)
+- [Results 📊](#results-📊)
+- [Future Enhancements 🌟](#future-enhancements-🌟)
+- [Contributors 👥](#contributors-👥)
 
 ---
 
@@ -141,7 +139,6 @@ The core of the project relies on a CNN-based deep learning architecture:
 - NASA Earth Observing System
 - European Space Agency (ESA) for Sentinel Data
 - TensorFlow and PyTorch communities
-- Kaggle
 
 ---
 
