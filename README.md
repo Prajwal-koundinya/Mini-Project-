@@ -107,7 +107,7 @@ The core of the project relies on a CNN-based deep learning architecture:
 
 ## Results 📊
 
-- **Accuracy:** Achieved 92% classification accuracy on the validation set.
+- **Accuracy:** Achieved 96% classification accuracy on the validation set.
 - **Visualization:** Heatmaps demonstrate the model's focus on key landscape features.
 - **Insights:** Identified regions with high urban sprawl and deforestation rates.
 
