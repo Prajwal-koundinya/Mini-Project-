@@ -2,21 +2,6 @@
 
 ![Project Banner](https://via.placeholder.com/1000x300?text=Satellite+Image+Analysis)
 
-## Overview 🌍
-
-**Satellite Image Analysis: Identification of Landscapes** is a project aimed at analyzing satellite images to classify and identify various types of landscapes, including urban areas, forests, water bodies, mountains, and deserts. Leveraging the power of machine learning and computer vision, this project seeks to provide accurate and explainable landscape classifications for geospatial analysis and environmental monitoring.
-
----
-
-## Key Features ✨
-
-- **High-Accuracy Classification:** Employing state-of-the-art convolutional neural networks (CNNs) to achieve accurate landscape identification.
-- **Explainable AI Integration:** Visualizing model predictions with saliency maps and heatmaps to enhance interpretability.
-- **Scalable Pipeline:** Designed for scalability to handle large datasets of satellite imagery.
-- **Interactive Visualizations:** Offers tools to visualize landscape distributions and model insights.
-- **Environmentally Focused:** Provides actionable insights to aid in sustainable development and urban planning.
-
----
 
 ## Table of Contents 📖
 
@@ -30,6 +15,21 @@
 - [Future Enhancements 🌟](#future-enhancements-🌟)
 - [Contributors 👥](#contributors-👥)
 
+
+## Overview 🌍
+
+**Satellite Image Analysis: Identification of Landscapes** is a project aimed at analyzing satellite images to classify and identify various types of landscapes, including urban areas, forests, water bodies, mountains, and deserts. Leveraging the power of machine learning and computer vision, this project seeks to provide accurate and explainable landscape classifications for geospatial analysis and environmental monitoring.
+
+---
+
+## Key Features ✨
+
+- **High-Accuracy Classification:** Employing state-of-the-art convolutional neural networks (CNNs) to achieve accurate landscape identification.
+- **Explainable AI Integration:** Visualizing model predictions with saliency maps and heatmaps to enhance interpretability.
+- **Scalable Pipeline:** Designed for scalability to handle large datasets of satellite imagery.
+- **Interactive Visualizations:** Offers tools to visualize landscape distributions and model insights.
+- **Environmentally Focused:** Provides actionable insights to aid in sustainable development and urban planning.
+  
 ---
 
 ## Installation ⚡
