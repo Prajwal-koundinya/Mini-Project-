@@ -4,7 +4,7 @@
 
 ## Overview 🌍
 
-**Satellite Image Analysis: Identification of Landscapes** is a cutting-edge project aimed at analyzing satellite images to classify and identify various types of landscapes, including urban areas, forests, water bodies, mountains, and deserts. Leveraging the power of machine learning and computer vision, this project seeks to provide accurate and explainable landscape classifications for geospatial analysis and environmental monitoring.
+**Satellite Image Analysis: Identification of Landscapes** is a project aimed at analyzing satellite images to classify and identify various types of landscapes, including urban areas, forests, water bodies, mountains, and deserts. Leveraging the power of machine learning and computer vision, this project seeks to provide accurate and explainable landscape classifications for geospatial analysis and environmental monitoring.
 
 ---
 
